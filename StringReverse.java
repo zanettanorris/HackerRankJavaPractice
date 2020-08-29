@@ -19,7 +19,7 @@ public class Solution {
         
         Scanner sc=new Scanner(System.in);
         String A=sc.next();
-        /* Enter your code here. Print output to STDOUT. */
+ 
         StringBuilder input = new StringBuilder();
         input.append(A);
         StringBuilder inputReverse = input.reverse();
