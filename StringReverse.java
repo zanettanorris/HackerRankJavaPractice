@@ -2,7 +2,7 @@
 // Given a string A, print Yes if it is a palindrome, print No otherwise.
 
 // Constraints
-// A will consist at most  lower case english letters.
+// A will consist of at most 50 lower case english letters.
 
 // Sample Input:
 // madam
