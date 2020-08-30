@@ -44,7 +44,6 @@ public class Solution {
         double payment = scanner.nextDouble();
         scanner.close();
         
-        // Write your code here.
         NumberFormat u = NumberFormat.getCurrencyInstance();
         NumberFormat i = NumberFormat.getCurrencyInstance(new Locale("en", "in"));
         NumberFormat c = NumberFormat.getCurrencyInstance(Locale.CHINA);
